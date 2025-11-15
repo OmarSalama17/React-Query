@@ -1,0 +1,2472 @@
+[
+  {
+    "title": {
+      "en": "Digital Marketing Masterclass",
+      "ar": "ماستر كلاس التسويق الرقمي"
+    },
+    "price": 0,
+    "description": {
+      "en": "A comprehensive masterclass covering SEO, SEM, social media, and analytics to build a complete digital marketing strategy.",
+      "ar": "دورة شاملة تغطي تحسين محركات البحث (SEO) والتسويق عبر محركات البحث (SEM) ووسائل التواصل الاجتماعي والتحليلات لبناء استراتيجية تسويق رقمي متكاملة."
+    },
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuBpKenoFfCcj0C18hJ-3iggfY10GzqVcK8Q-Rm7QW2nfA5zjsthCgW_6FAyXszUuiDYyH7mW2AuB2VN1gMWCTUf5jJkdK8tZxi4gmiU7VDnvatmNU5PhD8xZwaYKAHwT06HiY5eDD_UmX6ALZDSn4c2AR-qtS7wNH3z0k1xMDiyJu01sTy2Sr_7vpTyv_YTLAPN1Iv5qdRdWwQ0UJRCawKxzZoiGVuIlEoHkFc1D_Z0T821FVMSXXzNPaXTRoZ3TiSJqsNTeOpY-3CD",
+    "categories": {
+      "en": "Marketing",
+      "ar": "التسويق"
+    },
+    "categoryColor": "text-orange-500 bg-orange-500/10",
+    "date": 1729624088,
+    "isActive": true,
+    "instructor": {
+      "en": "John Doe",
+      "ar": "جون دو"
+    },
+    "reviews": 91,
+    "rating": 4.5,
+    "whatLearn": [
+      {
+        "en": "Build comprehensive digital marketing strategies from scratch.",
+        "ar": "بناء استراتيجيات تسويق رقمي شاملة من الصفر."
+      },
+      {
+        "en": "Master Search Engine Optimization (SEO) and Search Engine Marketing (SEM).",
+        "ar": "إتقان تحسين محركات البحث (SEO) والتسويق عبر محركات البحث (SEM)."
+      },
+      {
+        "en": "Effectively manage social media campaigns and content marketing.",
+        "ar": "إدارة حملات وسائل التواصل الاجتماعي وتسويق المحتوى بفاعلية."
+      },
+      {
+        "en": "Analyze data and measure campaign performance (Analytics) to make better decisions.",
+        "ar": "تحليل البيانات وقياس أداء الحملات (Analytics) لاتخاذ قرارات أفضل."
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "Digital Marketing Fundamentals & Strategy",
+          "ar": "أساسيات واستراتيجيات التسويق الرقمي"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: What is Digital Marketing & Why It Matters? (10:20)",
+            "ar": "الدرس 1: ما هو التسويق الرقمي ولماذا هو مهم؟ (10:20)"
+          },
+          {
+            "en": "Lesson 2: Building Your Buyer Persona (14:15)",
+            "ar": "الدرس 2: بناء شخصية العميل (Buyer Persona) (14:15)"
+          },
+          {
+            "en": "Lesson 3: Developing a Full-Funnel Marketing Strategy (18:45)",
+            "ar": "الدرس 3: تطوير استراتيجية تسويق كاملة (Full-Funnel) (18:45)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "02",
+        "moduleTitle": {
+          "en": "Customer Acquisition (SEO & SEM)",
+          "ar": "اكتساب العملاء (SEO & SEM)"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Introduction to Search Engine Optimization (SEO) (22:10)",
+            "ar": "الدرس 1: مقدمة في تحسين محركات البحث (SEO) (22:10)"
+          },
+          {
+            "en": "Lesson 2: Launching Successful Google Ads (SEM) Campaigns (25:30)",
+            "ar": "الدرس 2: إطلاق حملات إعلانات جوجل ناجحة (SEM) (25:30)"
+          },
+          {
+            "en": "Lesson 3: Deep Dive into Keyword Research (19:55)",
+            "ar": "الدرس 3: تعمق في البحث عن الكلمات المفتاحية (19:55)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "03",
+        "moduleTitle": {
+          "en": "Content & Social Media Marketing",
+          "ar": "تسويق المحتوى ووسائل التواصل الاجتماعي"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Creating Engaging Content (Content Marketing) (16:40)",
+            "ar": "الدرس 1: إنشاء محتوى جذاب (تسويق المحتوى) (16:40)"
+          },
+          {
+            "en": "Lesson 2: Facebook & Instagram Marketing Strategies (21:05)",
+            "ar": "الدرس 2: استراتيجيات التسويق عبر فيسبوك وإنستجرام (21:05)"
+          },
+          {
+            "en": "Lesson 3: Effective Email Marketing (15:00)",
+            "ar": "الدرس 3: التسويق الفعال عبر البريد الإلكتروني (15:00)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "04",
+        "moduleTitle": {
+          "en": "Analytics & Optimization",
+          "ar": "التحليلات والتحسين"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Introduction to Google Analytics (20:35)",
+            "ar": "الدرس 1: مقدمة في تحليلات جوجل (20:35)"
+          },
+          {
+            "en": "Lesson 2: Measuring ROI and Optimizing Campaigns (23:10)",
+            "ar": "الدرس 2: قياس عائد الاستثمار (ROI) وتحسين الحملات (23:10)"
+          }
+        ]
+      }
+    ],
+    "id": "1"
+  },
+  {
+    "title": {
+      "en": "Data Science with R",
+      "ar": "علم البيانات باستخدام لغة R"
+    },
+    "price": 0,
+    "description": {
+      "en": "Learn data analysis, visualization, and machine learning using the R language and the Tidyverse.",
+      "ar": "تعلم تحليل البيانات وتصويرها (Visualization) وأساسيات تعلم الآلة باستخدام لغة R ومجموعة أدوات Tidyverse."
+    },
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuB4s-oJu9kruPFZ91BdzUjs7YOvVeTkMkJ-zJ99XTRr9il9Wy7eO7MYl3JuL2pPSMBcFHiB3gnQV4un8mfavEnOjFsRCmnod-YvIcevu6ANuxhSDI3Yiq25jh5zl5GkJLz-v_RvXRVaGn5wddHoO8scY1X1cptcrkz55XWF2n5wQyLJDCfJoBL705xv7LIARKxqfhbK7K2Lx2upWAB4uqW-0rTnwCb2FeNi5cpLgpw8ca7lvYfIolJORRiMwOy7s4KQ26akBJgYSJJl",
+    "categories": {
+      "en": "Data Science",
+      "ar": "علم البيانات"
+    },
+    "categoryColor": "text-red-500 bg-red-500/10",
+    "date": 1724353688,
+    "isActive": false,
+    "instructor": {
+      "en": "Jane Smith",
+      "ar": "جين سميث"
+    },
+    "reviews": 97,
+    "rating": 4.8,
+    "whatLearn": [
+      {
+        "en": "Understand the fundamentals of the R language for data analysis.",
+        "ar": "فهم أساسيات لغة R لتحليل البيانات."
+      },
+      {
+        "en": "Clean, process, and manipulate data (Data Wrangling) using the Tidyverse.",
+        "ar": "تنظيف ومعالجة وتحويل البيانات (Data Wrangling) باستخدام Tidyverse."
+      },
+      {
+        "en": "Create professional and interactive data visualizations.",
+        "ar": "إنشاء رسوم بيانية احترافية وتفاعلية للبيانات."
+      },
+      {
+        "en": "Apply basic Machine Learning models for prediction.",
+        "ar": "تطبيق نماذج تعلم الآلة الأساسية للتنبؤ."
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "Introduction to R & Data Science",
+          "ar": "مقدمة في R وعلم البيانات"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: What is Data Science & The Role of R? (08:50)",
+            "ar": "الدرس 1: ما هو علم البيانات ودور لغة R؟ (08:50)"
+          },
+          {
+            "en": "Lesson 2: Installing R & RStudio and Navigating the Interface (12:30)",
+            "ar": "الدرس 2: تثبيت R و RStudio والتعرف على الواجهة (12:30)"
+          },
+          {
+            "en": "Lesson 3: R Programming Basics (Variables, Data Types) (16:10)",
+            "ar": "الدرس 3: أساسيات البرمجة بلغة R (المتغيرات، أنواع البيانات) (16:10)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "02",
+        "moduleTitle": {
+          "en": "Data Wrangling with Tidyverse",
+          "ar": "معالجة البيانات باستخدام Tidyverse"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Importing Data (CSV, Excel) (11:45)",
+            "ar": "الدرس 1: استيراد البيانات (CSV, Excel) (11:45)"
+          },
+          {
+            "en": "Lesson 2: Data Cleaning and Manipulation with dplyr (19:20)",
+            "ar": "الدرس 2: تنظيف ومعالجة البيانات باستخدام dplyr (19:20)"
+          },
+          {
+            "en": "Lesson 3: Reshaping Data with tidyr (14:00)",
+            "ar": "الدرس 3: إعادة تشكيل البيانات باستخدام tidyr (14:00)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "03",
+        "moduleTitle": {
+          "en": "Data Visualization",
+          "ar": "تصوير البيانات"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Data Visualization Basics with ggplot2 (17:50)",
+            "ar": "الدرس 1: أساسيات تصوير البيانات باستخدام ggplot2 (17:50)"
+          },
+          {
+            "en": "Lesson 2: Customizing Plots (Colors, Themes, Labels) (20:15)",
+            "ar": "الدرس 2: تخصيص الرسوم البيانية (الألوان، السمات، العناوين) (20:15)"
+          },
+          {
+            "en": "Lesson 3: Creating Interactive Visualizations (18:05)",
+            "ar": "الدرس 3: إنشاء رسوم بيانية تفاعلية (18:05)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "04",
+        "moduleTitle": {
+          "en": "Statistical Models & Machine Learning",
+          "ar": "النماذج الإحصائية وتعلم الآلة"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Introduction to Statistical Modeling (13:30)",
+            "ar": "الدرس 1: مقدمة في النمذجة الإحصائية (13:30)"
+          },
+          {
+            "en": "Lesson 2: Applying a Linear Regression Model (24:00)",
+            "ar": "الدرس 2: تطبيق نموذج الانحدار الخطي (24:00)"
+          }
+        ]
+      }
+    ],
+    "id": "2"
+  },
+  {
+    "title": {
+      "en": "UI UX Design Fundamentals",
+      "ar": "أساسيات تصميم واجهة وتجربة المستخدم (UI UX)"
+    },
+    "price": 39.99,
+    "description": {
+      "en": "Master the fundamentals of UI/UX, from user research and personas to wireframing and prototyping in Figma.",
+      "ar": "أتقن أساسيات تصميم واجهة وتجربة المستخدم، بدءًا من بحث المستخدم وبناء الشخصيات وحتى تصميم النماذج الأولية (Wireframes) على Figma."
+    },
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCJfCvQpdy1UzMhGhYzY7ASOJYRnI1szqa3LkJ9tzPnnBY8C3fqolQoMta7rOJNaf21Izh6-ttwLY_dl9NJ9j46I3PII_1E95HflbzoeTPk91eJizOS9lRuNxtg0RVKPqzAzdwmwCuLcO9rZ7H_0efB9qAMQ7cjSxVvUOM-oNElVNUArdAo05HDD7VhdvhFjNKUR0jg6MZoYc0puw-2WSxzRacwahdBj0lQPuqz14iN0JhJnCe7TYgLo2whfFahi-CRMRVgjyC_N6Ap",
+    "categories": {
+      "en": "Design",
+      "ar": "التصميم"
+    },
+    "categoryColor": "text-purple-500 bg-purple-500/10",
+    "date": 1726945688,
+    "isActive": false,
+    "instructor": {
+      "en": "Alex Johnson",
+      "ar": "أليكس جونسون"
+    },
+    "reviews": 89,
+    "rating": 4.3,
+    "whatLearn": [
+      {
+        "en": "Differentiate between User Interface (UI) and User Experience (UX).",
+        "ar": "التفريق بين واجهة المستخدم (UI) وتجربة المستخدم (UX)."
+      },
+      {
+        "en": "Apply core design principles (Color Theory, Typography, Contrast).",
+        "ar": "تطبيق مبادئ التصميم الأساسية (نظرية الألوان، الطباعة، التباين)."
+      },
+      {
+        "en": "Conduct user research and create user personas.",
+        "ar": "إجراء أبحاث المستخدمين وإنشاء شخصيات المستخدم (Personas)."
+      },
+      {
+        "en": "Design wireframes and interactive prototypes using Figma.",
+        "ar": "تصميم النماذج الشبكية (Wireframes) والنماذج الأولية التفاعلية باستخدام Figma."
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "Introduction to the World of UI/UX",
+          "ar": "مقدمة في عالم UI/UX"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: The Core Difference Between UI & UX (11:25)",
+            "ar": "الدرس 1: الفرق الجوهري بين UI و UX (11:25)"
+          },
+          {
+            "en": "Lesson 2: The Importance of User-Centered Design (UCD) (13:40)",
+            "ar": "الدرس 2: أهمية التصميم المتمحور حول المستخدم (UCD) (13:40)"
+          },
+          {
+            "en": "Lesson 3: Overview of Design Tools (Figma, Sketch, Adobe XD) (09:10)",
+            "ar": "الدرس 3: نظرة عامة على أدوات التصميم (Figma, Sketch, Adobe XD) (09:10)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "02",
+        "moduleTitle": {
+          "en": "Visual Design (UI) Fundamentals",
+          "ar": "أساسيات التصميم المرئي (UI)"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Color Theory and How to Choose Palettes (15:55)",
+            "ar": "الدرس 1: نظرية الألوان وكيفية اختيار لوحات الألوان (15:55)"
+          },
+          {
+            "en": "Lesson 2: The Art of Typography (17:30)",
+            "ar": "الدرس 2: فن الطباعة (Typography) (17:30)"
+          },
+          {
+            "en": "Lesson 3: Principles of Layout & Visual Hierarchy (14:45)",
+            "ar": "الدرس 3: مبادئ التخطيط والتسلسل الهرمي البصري (14:45)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "03",
+        "moduleTitle": {
+          "en": "The User Experience (UX) Process",
+          "ar": "عملية تجربة المستخدم (UX)"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: How to Conduct User Interviews (18:15)",
+            "ar": "الدرس 1: كيفية إجراء مقابلات المستخدمين (18:15)"
+          },
+          {
+            "en": "Lesson 2: Creating Customer Journey Maps (16:00)",
+            "ar": "الدرس 2: إنشاء خرائط رحلة العميل (16:00)"
+          },
+          {
+            "en": "Lesson 3: The Process of Wireframing (19:35)",
+            "ar": "الدرس 3: عملية تصميم النماذج الشبكية (Wireframing) (19:35)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "04",
+        "moduleTitle": {
+          "en": "Practical Application in Figma",
+          "ar": "التطبيق العملي في Figma"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Getting Started with Figma (12:00)",
+            "ar": "الدرس 1: البدء مع Figma (12:00)"
+          },
+          {
+            "en": "Lesson 2: Building a Simple Design System (20:50)",
+            "ar": "الدرس 2: بناء نظام تصميم بسيط (20:50)"
+          },
+          {
+            "en": "Lesson 3: Turning Your Design into an Interactive Prototype (22:20)",
+            "ar": "الدرس 3: تحويل تصميمك إلى نموذج أولي تفاعلي (22:20)"
+          }
+        ]
+      }
+    ],
+    "id": "3"
+  },
+  {
+    "title": {
+      "en": "Introduction to Python",
+      "ar": "مقدمة في لغة بايثون"
+    },
+    "price": 29.99,
+    "description": {
+      "en": "Learn the basics of Python programming, including data types, loops, conditionals, and functions, to start your coding journey.",
+      "ar": "تعلم أساسيات برمجة بايثون، بما في ذلك أنواع البيانات، الحلقات التكرارية، الشروط، والدوال، لتبدأ رحلتك في البرمجة."
+    },
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuCBwZxVTW7oM9IAZusplB7sSL5HxGeDIERZsWer1tXeENKeSim8AlPQZJKOoZ3CXZYdE5RRAw5Pn47ZVJZUQ5N8E2xwjBliBy4Mo3j_8mTSGVu5DKRhLB3XHLlMa5b_Tv9YSYfpUH2j1ZpnLmEleY6ABStfsMn6KMP15gAYm96HFPR5olRz_Lfg5zLh_fVYkOX9s7o_NJB4qtIks0QRyt_fPZUaztfO_ddXhBzTNDsUIuJ2SdHm-eQ_dSO8d_uXjaDS0KVfB4l2XqNA",
+    "categories": {
+      "en": "Programming",
+      "ar": "البرمجة"
+    },
+    "categoryColor": "text-primary bg-primary/10",
+    "date": 1729537688,
+    "isActive": false,
+    "instructor": {
+      "en": "Michael Brown",
+      "ar": "مايكل براون"
+    },
+    "reviews": 85,
+    "rating": 4.6,
+    "whatLearn": [
+      {
+        "en": "Write clean, understandable Python code.",
+        "ar": "كتابة كود بايثون نظيف ومفهوم."
+      },
+      {
+        "en": "Understand fundamental data types (Strings, Integers, Floats, Booleans).",
+        "ar": "فهم أنواع البيانات الأساسية (النصوص، الأرقام الصحيحة، الأرقام العشرية، القيم المنطقية)."
+      },
+      {
+        "en": "Use control structures (Loops & Conditionals) to solve problems.",
+        "ar": "استخدام هياكل التحكم (الحلقات التكرارية والشروط) لحل المشكلات."
+      },
+      {
+        "en": "Create and use functions to organize your code.",
+        "ar": "إنشاء واستخدام الدوال لتنظيم الكود الخاص بك."
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "Getting Started with Python",
+          "ar": "البدء مع بايثون"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Why Python? and Setting Up Your Environment (07:40)",
+            "ar": "الدرس 1: لماذا بايثون؟ وإعداد بيئة العمل الخاصة بك (07:40)"
+          },
+          {
+            "en": "Lesson 2: Variables and Printing Output (10:15)",
+            "ar": "الدرس 2: المتغيرات وطباعة المخرجات (10:15)"
+          },
+          {
+            "en": "Lesson 3: Working with Strings and Numbers (13:50)",
+            "ar": "الدرس 3: التعامل مع النصوص والأرقام (13:50)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "02",
+        "moduleTitle": {
+          "en": "Control Flow",
+          "ar": "تدفق التحكم"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Conditional Statements (if, elif, else) (11:05)",
+            "ar": "الدرس 1: الجمل الشرطية (if, elif, else) (11:05)"
+          },
+          {
+            "en": "Lesson 2: For Loops (14:30)",
+            "ar": "الدرس 2: حلقات التكرار (For Loops) (14:30)"
+          },
+          {
+            "en": "Lesson 3: While Loops (12:20)",
+            "ar": "الدرس 3: حلقات التكرار (While Loops) (12:20)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "03",
+        "moduleTitle": {
+          "en": "Data Structures",
+          "ar": "هياكل البيانات"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Lists and How to Use Them (16:00)",
+            "ar": "الدرس 1: القوائم (Lists) وكيفية استخدامها (16:00)"
+          },
+          {
+            "en": "Lesson 2: Dictionaries (15:10)",
+            "ar": "الدرس 2: القواميس (Dictionaries) (15:10)"
+          },
+          {
+            "en": "Lesson 3: Tuples and Sets (10:45)",
+            "ar": "الدرس 3: (Tuples) و (Sets) (10:45)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "04",
+        "moduleTitle": {
+          "en": "Functions & Next Steps",
+          "ar": "الدوال والخطوات التالية"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: How to Define and Call Functions (18:35)",
+            "ar": "الدرس 1: كيفية تعريف واستدعاء الدوال (18:35)"
+          },
+          {
+            "en": "Lesson 2: Reading from and Writing to Files (File I/O) (14:00)",
+            "ar": "الدرس 2: القراءة والكتابة في الملفات (File I/O) (14:00)"
+          },
+          {
+            "en": "Lesson 3: A Simple Introduction to OOP (Object-Oriented Programming) (20:25)",
+            "ar": "الدرس 3: مقدمة بسيطة في البرمجة كائنية التوجه (OOP) (20:25)"
+          }
+        ]
+      }
+    ],
+    "id": "4"
+  },
+  {
+    "title": {
+      "en": "The Complete JavaScript Course",
+      "ar": "دورة جافاسكريبت الكاملة"
+    },
+    "price": 49.99,
+    "description": {
+      "en": "Go from beginner to expert in JavaScript. Master the DOM, Async JS, ES6+, and all the fundamentals needed for web development.",
+      "ar": "انطلق من مبتدئ إلى خبير في جافاسكريبت. أتقن التعامل مع (DOM) والبرمجة غير المتزامنة (Async JS) وميزات ES6+ وكل الأساسيات المطلوبة لتطوير الويب."
+    },
+    "image": "https://lh3.googleusercontent.com/aida-public/AB6AXuAhcfBbw8ccJ_HiMT7UKnTQVNWmBuQngi5w4kjRo462WWfO_45k70r1mbEpHr_OlfVbAJdXmMeyua7JsCqqboZkqIdtG7eBAh2o9PLizGFD6zzasnM7XrDGGMx--6U6WyZ794GwZStTjhfVDDKdTcqxrzaCQitEdTTY7_xh-ya8I8ppeQo9jCIaqfEz1C8usWjWehMNNViq5GHjyXPOUT2uBjm0HmqQ41In_fkRPshRIwVgpQyJY_c53WNtWVn0T9JH_idh8vYcUveu",
+    "categories": {
+      "en": "Programming",
+      "ar": "البرمجة"
+    },
+    "categoryColor": "text-primary bg-primary/10",
+    "date": 1729019288,
+    "isActive": true,
+    "instructor": {
+      "en": "Sarah Lee",
+      "ar": "سارة لي"
+    },
+    "reviews": 94,
+    "rating": 4.9,
+    "whatLearn": [
+      {
+        "en": "Master JavaScript fundamentals (Variables, Loops, Functions).",
+        "ar": "إتقان أساسيات جافاسكريبت (المتغيرات، الحلقات، الدوال)."
+      },
+      {
+        "en": "Manipulate webpage elements (DOM Manipulation).",
+        "ar": "التحكم في عناصر صفحة الويب (DOM Manipulation)."
+      },
+      {
+        "en": "Understand asynchronous JavaScript (Async JS, Promises, Async/Await).",
+        "ar": "فهم جافاسكريبت غير المتزامنة (Async JS, Promises, Async/Await)."
+      },
+      {
+        "en": "Use modern ES6+ features to build powerful applications.",
+        "ar": "استخدام ميزات ES6+ الحديثة لبناء تطبيقات قوية."
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "JavaScript Fundamentals",
+          "ar": "أساسيات جافاسكريبت"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: What is JavaScript and How Does it Work? (09:30)",
+            "ar": "الدرس 1: ما هي جافاسكريبت وكيف تعمل؟ (09:30)"
+          },
+          {
+            "en": "Lesson 2: Variables, Data Types, and Operators (14:50)",
+            "ar": "الدرس 2: المتغيرات، أنواع البيانات، والمعاملات (14:50)"
+          },
+          {
+            "en": "Lesson 3: Functions and Scope (17:15)",
+            "ar": "الدرس 3: الدوال ونطاق العمل (Scope) (17:15)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "02",
+        "moduleTitle": {
+          "en": "JavaScript in the Browser (DOM)",
+          "ar": "جافاسكريبت في المتصفح (DOM)"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: What is the DOM and How to Select Elements (15:20)",
+            "ar": "الدرس 1: ما هو (DOM) وكيفية تحديد العناصر (15:20)"
+          },
+          {
+            "en": "Lesson 2: Changing Page Content (Text, HTML, CSS) (18:00)",
+            "ar": "الدرس 2: تغيير محتوى الصفحة (نص، HTML، CSS) (18:00)"
+          },
+          {
+            "en": "Lesson 3: Handling Events (like Clicks) (16:45)",
+            "ar": "الدرس 3: التعامل مع الأحداث (مثل النقرات) (16:45)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "03",
+        "moduleTitle": {
+          "en": "Advanced JavaScript (ES6+)",
+          "ar": "جافاسكريبت المتقدمة (ES6+)"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Arrow Functions and Template Literals (12:55)",
+            "ar": "الدرس 1: (Arrow Functions) و (Template Literals) (12:55)"
+          },
+          {
+            "en": "Lesson 2: Advanced Array Methods (19:10)",
+            "ar": "الدرس 2: دوال المصفوفات المتقدمة (19:10)"
+          },
+          {
+            "en": "Lesson 3: Introduction to OOP and Classes (22:40)",
+            "ar": "الدرس 3: مقدمة في البرمجة كائنية التوجه (OOP) والكلاسات (22:40)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "04",
+        "moduleTitle": {
+          "en": "Asynchronous JavaScript",
+          "ar": "جافاسكريبت غير المتزامنة"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Understanding the Call Stack & Event Loop (13:10)",
+            "ar": "الدرس 1: فهم (Call Stack) و (Event Loop) (13:10)"
+          },
+          {
+            "en": "Lesson 2: Promises and How to Use Them (20:00)",
+            "ar": "الدرس 2: الـ (Promises) وكيفية استخدامها (20:00)"
+          },
+          {
+            "en": "Lesson 3: Async/Await for Fetching Data from APIs (21:30)",
+            "ar": "الدرس 3: Async/Await لجلب البيانات من (APIs) (21:30)"
+          }
+        ]
+      }
+    ],
+    "id": "5"
+  },
+  {
+    "title": {
+      "en": "Introduction to UX Design",
+      "ar": "مقدمة في تصميم تجربة المستخدم (UX)"
+    },
+    "price": 34.99,
+    "description": {
+      "en": "A beginner's guide to the philosophy of UX. Learn the Design Thinking process, how to create empathy maps, and paper prototyping.",
+      "ar": "دليل المبتدئين لفهم فلسفة تجربة المستخدم. تعلم عملية التفكير التصميمي (Design Thinking)، وكيفية إنشاء خرائط التعاطف، والنماذج الأولية الورقية."
+    },
+    "image": "https://public-media.interaction-design.org/images/uploads/230e3eb882eb8379887eeef3b553a4f0.jpg",
+    "categories": {
+      "en": "Design",
+      "ar": "التصميم"
+    },
+    "categoryColor": "text-purple-500 bg-purple-500/10",
+    "date": 1721675288,
+    "isActive": false,
+    "instructor": {
+      "en": "David Chen",
+      "ar": "ديفيد تشين"
+    },
+    "reviews": 86,
+    "rating": 4.2,
+    "whatLearn": [
+      {
+        "en": "Understand the core philosophy and principles behind User Experience (UX) design.",
+        "ar": "فهم الفلسفة والمبادئ الأساسية وراء تصميم تجربة المستخدم (UX)."
+      },
+      {
+        "en": "Apply the Design Thinking process to solve complex problems.",
+        "ar": "تطبيق عملية التفكير التصميمي (Design Thinking) لحل المشكلات المعقدة."
+      },
+      {
+        "en": "Create Empathy Maps and User Personas.",
+        "ar": "إنشاء خرائط التعاطف (Empathy Maps) وشخصيات المستخدم (Personas)."
+      },
+      {
+        "en": "Transform ideas into testable Paper Prototypes.",
+        "ar": "تحويل الأفكار إلى نماذج أولية ورقية قابلة للاختبار."
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "What is User Experience (UX)?",
+          "ar": "ما هي تجربة المستخدم (UX)؟"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: The Full Definition of UX (More Than Just Design) (10:00)",
+            "ar": "الدرس 1: التعريف الكامل لـ UX (أكثر من مجرد تصميم) (10:00)"
+          },
+          {
+            "en": "Lesson 2: How Investing in UX Saves Money (08:30)",
+            "ar": "الدرس 2: كيف يوفر الاستثمار في UX المال (08:30)"
+          },
+          {
+            "en": "Lesson 3: The 7 Principles of Great UX Design (14:20)",
+            "ar": "الدرس 3: المبادئ السبعة لتصميم تجربة مستخدم رائعة (14:20)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "02",
+        "moduleTitle": {
+          "en": "The Design Thinking Process",
+          "ar": "عملية التفكير التصميمي"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Phase 1: Empathize (12:45)",
+            "ar": "الدرس 1: المرحلة الأولى: التعاطف (12:45)"
+          },
+          {
+            "en": "Lesson 2: Phase 2: Define (11:10)",
+            "ar": "الدرس 2: المرحلة الثانية: التحديد (11:10)"
+          },
+          {
+            "en": "Lesson 3: Phases 3 & 4: Ideate & Prototype (16:50)",
+            "ar": "الدرس 3: المرحلتان 3 و 4: توليد الأفكار والنمذجة (16:50)"
+          },
+          {
+            "en": "Lesson 4: Phase 5: Test (10:30)",
+            "ar": "الدرس 4: المرحلة الخامسة: الاختبار (10:30)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "03",
+        "moduleTitle": {
+          "en": "Understanding Your User",
+          "ar": "فهم المستخدم الخاص بك"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Introduction to User Research (15:00)",
+            "ar": "الدرس 1: مقدمة في بحث المستخدم (15:00)"
+          },
+          {
+            "en": "Lesson 2: Building User Personas (17:25)",
+            "ar": "الدرس 2: بناء شخصيات المستخدم (Personas) (17:25)"
+          },
+          {
+            "en": "Lesson 3: Crafting User Journey Maps (14:40)",
+            "ar": "الدرس 3: صياغة خرائط رحلة المستخدم (14:40)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "04",
+        "moduleTitle": {
+          "en": "From Idea to Prototype",
+          "ar": "من الفكرة إلى النموذج الأولي"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Brainstorming Techniques (11:55)",
+            "ar": "الدرس 1: تقنيات العصف الذهني (11:55)"
+          },
+          {
+            "en": "Lesson 2: Low-Fidelity Paper Prototyping (19:05)",
+            "ar": "الدرس 2: النماذج الأولية الورقية (Low-Fidelity) (19:05)"
+          }
+        ]
+      }
+    ],
+    "id": "6"
+  },
+  {
+    "title": {
+      "en": "Graphic Design Fundamentals",
+      "ar": "أساسيات التصميم الجرافيكي"
+    },
+    "price": 39.99,
+    "description": {
+      "en": "Learn the 5 core principles of design, color theory, typography, and practical application in Photoshop & Illustrator.",
+      "ar": "تعلم المبادئ الخمسة الأساسية للتصميم، نظرية الألوان، فن الطباعة، والتطبيق العملي في فوتوشوب وإليستريتور."
+    },
+    "image": "https://media.licdn.com/dms/image/v2/D5612AQFqMdy1-1pTIQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1692431100053?e=2147483647&v=beta&t=77OHGk8HjqZOvTvDff1aw-yD_WvqCwkCoYNExAbqppc",
+    "categories": {
+      "en": "Design",
+      "ar": "التصميم"
+    },
+    "categoryColor": "text-purple-500 bg-purple-500/10",
+    "date": 1728414488,
+    "isActive": false,
+    "instructor": {
+      "en": "Emily White",
+      "ar": "إميلي وايت"
+    },
+    "reviews": 90,
+    "rating": 4.4,
+    "whatLearn": [
+      {
+        "en": "Master the 5 fundamental principles of graphic design.",
+        "ar": "إتقان المبادئ الخمسة الأساسية للتصميم الجرافيكي."
+      },
+      {
+        "en": "Understand color psychology and how to build harmonious color palettes.",
+        "ar": "فهم سيكولوجية الألوان وكيفية بناء لوحات ألوان متناغمة."
+      },
+      {
+        "en": "The art of typography and how to pair fonts professionally.",
+        "ar": "فن الطباعة وكيفية تنسيق الخطوط باحترافية."
+      },
+      {
+        "en": "Apply these fundamentals using Adobe Photoshop and Illustrator.",
+        "ar": "تطبيق هذه الأساسيات باستخدام Adobe Photoshop و Illustrator."
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "Core Principles of Design",
+          "ar": "المبادئ الأساسية للتصميم"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Balance and Contrast (13:20)",
+            "ar": "الدرس 1: التوازن والتباين (13:20)"
+          },
+          {
+            "en": "Lesson 2: Hierarchy and Alignment (15:10)",
+            "ar": "الدرس 2: التسلسل الهرمي والمحاذاة (15:10)"
+          },
+          {
+            "en": "Lesson 3: Repetition and White Space (11:40)",
+            "ar": "الدرس 3: التكرار والمساحة البيضاء (11:40)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "02",
+        "moduleTitle": {
+          "en": "Color Theory & Typography",
+          "ar": "نظرية الألوان والطباعة"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: The Color Wheel and Color Psychology (16:30)",
+            "ar": "الدرس 1: عجلة الألوان وسيكولوجية الألوان (16:30)"
+          },
+          {
+            "en": "Lesson 2: Typography Terms (Serif vs. Sans-Serif) (14:00)",
+            "ar": "الدرس 2: مصطلحات الطباعة (Serif vs. Sans-Serif) (14:00)"
+          },
+          {
+            "en": "Lesson 3: How to Pair Fonts Effectively (18:50)",
+            "ar": "الدرس 3: كيفية تنسيق الخطوط بفاعلية (18:50)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "03",
+        "moduleTitle": {
+          "en": "Practical Application (Adobe Suite)",
+          "ar": "التطبيق العملي (Adobe Suite)"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Adobe Photoshop Basics (Layers, Masks) (20:10)",
+            "ar": "الدرس 1: أساسيات Adobe Photoshop (الطبقات، الأقنعة) (20:10)"
+          },
+          {
+            "en": "Lesson 2: Adobe Illustrator Basics (Vectors, Pen Tool) (22:35)",
+            "ar": "الدرس 2: أساسيات Adobe Illustrator (الفيكتور، أداة القلم) (22:35)"
+          },
+          {
+            "en": "Lesson 3: Designing a Simple Logo from Scratch (25:00)",
+            "ar": "الدرس 3: تصميم شعار بسيط من الصفر (25:00)"
+          }
+        ]
+      }
+    ],
+    "id": "7"
+  },
+  {
+    "title": {
+      "en": "AI for Beginners",
+      "ar": "الذكاء الاصطناعي للمبتدئين"
+    },
+    "price": 69.99,
+    "description": {
+      "en": "Demystify AI, ML, and Deep Learning. Understand neural networks and real-world AI applications in simple terms.",
+      "ar": "إزالة الغموض عن الذكاء الاصطناعي وتعلم الآلة والتعلم العميق. فهم الشبكات العصبية وتطبيقات الذكاء الاصطناعي الواقعية بعبارات بسيطة."
+    },
+    "image": "https://www.atomcamp.com/wp-content/uploads/2024/01/image-1-1024x705.png",
+    "categories": {
+      "en": "AI & ML",
+      "ar": "الذكاء الاصطناعي وتعلم الآلة"
+    },
+    "categoryColor": "text-blue-500 bg-blue-500/10",
+    "date": 1697998088,
+    "isActive": true,
+    "instructor": {
+      "en": "Dr. Omar Hassan",
+      "ar": "د. عمر حسان"
+    },
+    "reviews": 98,
+    "rating": 5,
+    "whatLearn": [
+      {
+        "en": "Understand the core concepts of AI, Machine Learning (ML), and Deep Learning (DL).",
+        "ar": "فهم المفاهيم الأساسية للذكاء الاصطناعي (AI)، وتعلم الآلة (ML)، والتعلم العميق (DL)."
+      },
+      {
+        "en": "Recognize the different types of Machine Learning (Supervised, Unsupervised).",
+        "ar": "التعرف على الأنواع المختلفة لتعلم الآلة (الخاضع للإشراف، وغير الخاضع للإشراف)."
+      },
+      {
+        "en": "Learn how Neural Networks work in a simple, clear way.",
+        "ar": "تعلم كيف تعمل الشبكات العصبية بطريقة بسيطة وواضحة."
+      },
+      {
+        "en": "Explore real-world AI applications (like ChatGPT and image recognition).",
+        "ar": "استكشاف تطبيقات الذكاء الاصطناعي الواقعية (مثل ChatGPT والتعرف على الصور)."
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "What is Artificial Intelligence?",
+          "ar": "ما هو الذكاء الاصطناعي؟"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: A Brief History of AI (08:15)",
+            "ar": "الدرس 1: تاريخ موجز للذكاء الاصطناعي (08:15)"
+          },
+          {
+            "en": "Lesson 2: The Difference Between AI, ML, and Deep Learning (11:30)",
+            "ar": "الدرس 2: الفرق بين AI و ML و Deep Learning (11:30)"
+          },
+          {
+            "en": "Lesson 3: Examples of AI All Around Us (09:50)",
+            "ar": "الدرس 3: أمثلة على الذكاء الاصطناعي من حولنا (09:50)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "02",
+        "moduleTitle": {
+          "en": "Machine Learning Basics",
+          "ar": "أساسيات تعلم الآلة"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Supervised Learning (Classification & Regression) (14:40)",
+            "ar": "الدرس 1: التعلم الخاضع للإشراف (التصنيف والانحدار) (14:40)"
+          },
+          {
+            "en": "Lesson 2: Unsupervised Learning (Clustering) (12:00)",
+            "ar": "الدرس 2: التعلم غير الخاضع للإشراف (التجميع) (12:00)"
+          },
+          {
+            "en": "Lesson 3: How Does a Model \"Learn\"? (Training vs. Testing) (16:25)",
+            "ar": "الدرس 3: كيف \"يتعلم\" النموذج؟ (التدريب مقابل الاختبار) (16:25)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "03",
+        "moduleTitle": {
+          "en": "Introduction to Deep Learning",
+          "ar": "مقدمة في التعلم العميق"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: What is a Neural Network? (18:10)",
+            "ar": "الدرس 1: ما هي الشبكة العصبية؟ (18:10)"
+          },
+          {
+            "en": "Lesson 2: Applications of Deep Learning (Images, Sound, Language) (15:35)",
+            "ar": "الدرس 2: تطبيقات التعلم العميق (الصور، الصوت، اللغة) (15:35)"
+          },
+          {
+            "en": "Lesson 3: Introduction to Large Language Models (LLMs) (19:00)",
+            "ar": "الدرس 3: مقدمة في نماذج اللغة الكبيرة (LLMs) (19:00)"
+          }
+        ]
+      }
+    ],
+    "id": "8"
+  },
+  {
+    "title": {
+      "en": "Project Management Essentials",
+      "ar": "أساسيات إدارة المشاريع"
+    },
+    "price": 54.99,
+    "description": {
+      "en": "Learn the complete project lifecycle, from scope and budget to risk management and stakeholder communication (Waterfall vs. Agile).",
+      "ar": "تعلم دورة حياة المشروع الكاملة، من تحديد النطاق والميزانية إلى إدارة المخاطر والتواصل مع أصحاب المصلحة (Waterfall vs. Agile)."
+    },
+    "image": "https://www.graphicpear.com/wp-content/uploads/2022/11/Project-Management-Illustration.jpg",
+    "categories": {
+      "en": "Business",
+      "ar": "إدارة الأعمال"
+    },
+    "categoryColor": "text-secondary bg-secondary/10",
+    "date": 1729192088,
+    "isActive": false,
+    "instructor": {
+      "en": "Maria Garcia",
+      "ar": "ماريا جارسيا"
+    },
+    "reviews": 88,
+    "rating": 4.1,
+    "whatLearn": [
+      {
+        "en": "Understand the complete project lifecycle from start to finish.",
+        "ar": "فهم دورة حياة المشروع الكاملة من البداية إلى النهاية."
+      },
+      {
+        "en": "Apply different project management methodologies (Waterfall vs. Agile).",
+        "ar": "تطبيق منهجيات مختلفة لإدارة المشاريع (Waterfall vs. Agile)."
+      },
+      {
+        "en": "Define project scope and set a realistic budget.",
+        "ar": "تحديد نطاق المشروع ووضع ميزانية واقعية."
+      },
+      {
+        "en": "Manage risks and communicate effectively with stakeholders.",
+        "ar": "إدارة المخاطر والتواصل بفاعلية مع أصحاب المصلحة."
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "Introduction to Project Management",
+          "ar": "مقدمة في إدارة المشاريع"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: What is a Project & What is a Project Manager? (09:00)",
+            "ar": "الدرس 1: ما هو المشروع ومن هو مدير المشروع؟ (09:00)"
+          },
+          {
+            "en": "Lesson 2: The Project Management Triangle (Time, Cost, Scope) (11:15)",
+            "ar": "الدرس 2: مثلث إدارة المشاريع (الوقت، التكلفة، النطاق) (11:15)"
+          },
+          {
+            "en": "Lesson 3: The Difference Between Waterfall and Agile (13:45)",
+            "ar": "الدرس 3: الفرق بين Waterfall و Agile (13:45)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "02",
+        "moduleTitle": {
+          "en": "The Planning Phase",
+          "ar": "مرحلة التخطيط"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Defining Scope & Gathering Requirements (15:30)",
+            "ar": "الدرس 1: تحديد النطاق وجمع المتطلبات (15:30)"
+          },
+          {
+            "en": "Lesson 2: Creating a Work Breakdown Structure (WBS) (14:05)",
+            "ar": "الدرس 2: إنشاء هيكل تجزئة العمل (WBS) (14:05)"
+          },
+          {
+            "en": "Lesson 3: Project Scheduling and Budgeting (17:50)",
+            "ar": "الدرس 3: جدولة المشروع ووضع الميزانية (17:50)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "03",
+        "moduleTitle": {
+          "en": "Execution & Monitoring",
+          "ar": "التنفيذ والمراقبة"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Managing and Motivating Your Team (16:10)",
+            "ar": "الدرس 1: إدارة وتحفيز فريقك (16:10)"
+          },
+          {
+            "en": "Lesson 2: Introduction to Risk Management (14:40)",
+            "ar": "الدرس 2: مقدمة في إدارة المخاطر (14:40)"
+          },
+          {
+            "en": "Lesson 3: Effective Stakeholder Communication (12:30)",
+            "ar": "الدرس 3: التواصل الفعال مع أصحاب المصلحة (12:30)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "04",
+        "moduleTitle": {
+          "en": "Closing the Project",
+          "ar": "إغلاق المشروع"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Delivering the Project and Gaining Acceptance (10:55)",
+            "ar": "الدرس 1: تسليم المشروع والحصول على القبول (10:55)"
+          },
+          {
+            "en": "Lesson 2: Documenting Lessons Learned (08:45)",
+            "ar": "الدرس 2: توثيق الدروس المستفادة (08:45)"
+          }
+        ]
+      }
+    ],
+    "id": "9"
+  },
+  {
+    "title": {
+      "en": "The Complete SQL Bootcamp",
+      "ar": "المعسكر التدريبي الكامل لـ SQL"
+    },
+    "price": 44.99,
+    "description": {
+      "en": "Master SQL for data analysis. Learn to write complex queries, join tables, and use aggregate functions in PostgreSQL.",
+      "ar": "أتقن SQL لتحليل البيانات. تعلم كتابة استعلامات معقدة، وربط الجداول، واستخدام الدوال التجميعية في PostgreSQL."
+    },
+    "image": "https://static-assets.codecademy.com/assets/course-landing-page/meta/16x9/learn-ai-for-sql.jpg",
+    "categories": {
+      "en": "Data Science",
+      "ar": "علم البيانات"
+    },
+    "categoryColor": "text-red-500 bg-red-500/10",
+    "date": 1719083288,
+    "isActive": false,
+    "instructor": {
+      "en": "Chris Evans",
+      "ar": "كريس إيفانز"
+    },
+    "reviews": 93,
+    "rating": 4.7,
+    "whatLearn": [
+      {
+        "en": "Write and run complex queries in PostgreSQL.",
+        "ar": "كتابة وتشغيل استعلامات معقدة في PostgreSQL."
+      },
+      {
+        "en": "Use SQL to retrieve, filter, and sort data.",
+        "ar": "استخدام SQL لاسترداد البيانات وتصفيتها وفرزها."
+      },
+      {
+        "en": "Perform data analysis using aggregate functions and GROUP BY.",
+        "ar": "إجراء تحليل للبيانات باستخدام الدوال التجميعية و GROUP BY."
+      },
+      {
+        "en": "Join multiple tables together to get complex insights.",
+        "ar": "ربط جداول متعددة معًا للحصول على رؤى معقدة."
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "SQL Fundamentals",
+          "ar": "أساسيات SQL"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: What is a Database? (SQL vs. NoSQL) (07:10)",
+            "ar": "الدرس 1: ما هي قاعدة البيانات؟ (SQL مقابل NoSQL) (07:10)"
+          },
+          {
+            "en": "Lesson 2: SELECT and FROM statements (10:40)",
+            "ar": "الدرس 2: جمل SELECT و FROM (10:40)"
+          },
+          {
+            "en": "Lesson 3: Filtering Data with the WHERE clause (13:15)",
+            "ar": "الدرس 3: تصفية البيانات باستخدام جملة WHERE (13:15)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "02",
+        "moduleTitle": {
+          "en": "Grouping & Aggregating Data",
+          "ar": "تجميع وتلخيص البيانات"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Using Aggregate Functions (COUNT, SUM, AVG) (15:00)",
+            "ar": "الدرس 1: استخدام الدوال التجميعية (COUNT, SUM, AVG) (15:00)"
+          },
+          {
+            "en": "Lesson 2: The GROUP BY Statement (12:50)",
+            "ar": "الدرس 2: جملة GROUP BY (12:50)"
+          },
+          {
+            "en": "Lesson 3: Filtering Groups with HAVING (14:35)",
+            "ar": "الدرس 3: تصفية المجموعات باستخدام HAVING (14:35)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "03",
+        "moduleTitle": {
+          "en": "Joining Tables",
+          "ar": "ربط الجداول"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Understanding Primary & Foreign Keys (11:00)",
+            "ar": "الدرس 1: فهم المفاتيح الأساسية والأجنبية (11:00)"
+          },
+          {
+            "en": "Lesson 2: INNER JOIN, LEFT JOIN, and RIGHT JOIN (17:20)",
+            "ar": "الدرس 2: (INNER JOIN) و (LEFT JOIN) و (RIGHT JOIN) (17:20)"
+          },
+          {
+            "en": "Lesson 3: Combining multiple tables (16:05)",
+            "ar": "الدرس 3: دمج جداول متعددة (16:05)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "04",
+        "moduleTitle": {
+          "en": "Advanced SQL",
+          "ar": "SQL المتقدمة"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Subqueries and Nested Queries (18:40)",
+            "ar": "الدرس 1: الاستعلامات الفرعية والمتداخلة (18:40)"
+          },
+          {
+            "en": "Lesson 2: CASE Statements (14:10)",
+            "ar": "الدرس 2: جمل CASE (14:10)"
+          },
+          {
+            "en": "Lesson 3: Data Modification (INSERT, UPDATE, DELETE) (19:55)",
+            "ar": "الدرس 3: تعديل البيانات (INSERT, UPDATE, DELETE) (19:55)"
+          }
+        ]
+      }
+    ],
+    "id": "10"
+  },
+  {
+    "title": {
+      "en": "React.js: From Beginner to Advanced",
+      "ar": "دورة React.js: من المبتدئ إلى المتقدم"
+    },
+    "price": 54.99,
+    "description": {
+      "en": "Master React.js and the modern front-end ecosystem. Learn Hooks, Context API, React Router, and state management with Redux.",
+      "ar": "أتقن React.js وبيئة العمل الأمامية الحديثة. تعلم Hooks, Context API, React Router, وإدارة الحالة (State) باستخدام Redux."
+    },
+    "image": "https://res.cloudinary.com/dr2dnmx76/image/upload/v1761178241/Gemini_Generated_Image_eo8442eo8442eo84_v9byrk.png",
+    "categories": {
+      "en": "Programming",
+      "ar": "البرمجة"
+    },
+    "categoryColor": "text-primary bg-primary/10",
+    "date": 1729724088,
+    "isActive": false,
+    "instructor": {
+      "en": "Emily Carter",
+      "ar": "إميلي كارتر"
+    },
+    "reviews": 102,
+    "rating": 4.8,
+    "whatLearn": [
+      {
+        "en": "Build complex, interactive web applications using React.js.",
+        "ar": "بناء تطبيقات ويب تفاعلية ومعقدة باستخدام React.js."
+      },
+      {
+        "en": "Understand and use modern React features like Hooks, Context, and Portals.",
+        "ar": "فهم واستخدام ميزات React الحديثة مثل Hooks و Context و Portals."
+      },
+      {
+        "en": "Manage application state effectively with Redux and Context API.",
+        "ar": "إدارة حالة التطبيق بفاعلية باستخدام Redux و Context API."
+      },
+      {
+        "en": "Implement client-side routing using React Router.",
+        "ar": "تطبيق التوجيه من جانب العميل (Routing) باستخدام React Router."
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "React Fundamentals & Modern JS",
+          "ar": "أساسيات React و JS الحديثة"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: What is React & Setting Up Your Environment (12:30)",
+            "ar": "الدرس 1: ما هي React وإعداد بيئة العمل (12:30)"
+          },
+          {
+            "en": "Lesson 2: JSX and Components (18:10)",
+            "ar": "الدرس 2: JSX والمكونات (Components) (18:10)"
+          },
+          {
+            "en": "Lesson 3: State and Props (15:45)",
+            "ar": "الدرس 3: الحالة (State) والخصائص (Props) (15:45)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "02",
+        "moduleTitle": {
+          "en": "React Hooks Deep Dive",
+          "ar": "تعمق في React Hooks"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Introduction to Hooks (useState) (20:05)",
+            "ar": "الدرس 1: مقدمة في Hooks (useState) (20:05)"
+          },
+          {
+            "en": "Lesson 2: Handling Side Effects (useEffect) (22:40)",
+            "ar": "الدرس 2: التعامل مع الآثار الجانبية (useEffect) (22:40)"
+          },
+          {
+            "en": "Lesson 3: State Management (useContext & useReducer) (19:15)",
+            "ar": "الدرس 3: إدارة الحالة (useContext & useReducer) (19:15)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "03",
+        "moduleTitle": {
+          "en": "Routing & State Management",
+          "ar": "التوجيه وإدارة الحالة"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Client-Side Routing with React Router (17:50)",
+            "ar": "الدرس 1: التوجيه من جانب العميل مع React Router (17:50)"
+          },
+          {
+            "en": "Lesson 2: Introduction to Redux (25:10)",
+            "ar": "الدرس 2: مقدمة في Redux (25:10)"
+          }
+        ]
+      }
+    ],
+    "id": "11"
+  },
+  {
+    "title": {
+      "en": "Node.js Backend Development",
+      "ar": "تطوير الواجهة الخلفية (Backend) باستخدام Node.js"
+    },
+    "price": 49.99,
+    "description": {
+      "en": "Build fast and scalable backend applications. Master Node.js, Express, MongoDB, and learn to build RESTful APIs from scratch.",
+      "ar": "بناء تطبيقات خلفية سريعة وقابلة للتوسع. أتقن Node.js و Express و MongoDB، وتعلم بناء واجهات برمجة تطبيقات RESTful من الصفر."
+    },
+    "image": "https://res.cloudinary.com/dr2dnmx76/image/upload/v1761178244/Gemini_Generated_Image_qkm7h7qkm7h7qkm7_i9vcct.png",
+    "categories": {
+      "en": "Programming",
+      "ar": "البرمجة"
+    },
+    "categoryColor": "text-primary bg-primary/10",
+    "date": 1729019288,
+    "isActive": false,
+    "instructor": {
+      "en": "Mark Anderson",
+      "ar": "مارك أندرسون"
+    },
+    "reviews": 95,
+    "rating": 4.7,
+    "whatLearn": [
+      {
+        "en": "Build RESTful APIs using Node.js, Express, and MongoDB.",
+        "ar": "بناء واجهات برمجة تطبيقات (APIs) من نوع RESTful باستخدام Node.js و Express و MongoDB."
+      },
+      {
+        "en": "Understand the Node.js event loop and asynchronous programming.",
+        "ar": "فهم حلقة الأحداث (Event Loop) والبرمجة غير المتزامنة في Node.js."
+      },
+      {
+        "en": "Implement authentication (JWT) and security best practices.",
+        "ar": "تطبيق المصادقة (JWT) وأفضل ممارسات الأمان."
+      },
+      {
+        "en": "Connect your application to a NoSQL database (MongoDB) with Mongoose.",
+        "ar": "ربط تطبيقك بقاعدة بيانات NoSQL (MongoDB) باستخدام Mongoose."
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "Node.js Fundamentals",
+          "ar": "أساسيات Node.js"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Introduction to Node.js and NPM (10:50)",
+            "ar": "الدرس 1: مقدمة في Node.js و NPM (10:50)"
+          },
+          {
+            "en": "Lesson 2: Asynchronous JavaScript (Callbacks, Promises, Async/Await) (18:30)",
+            "ar": "الدرس 2: جافاسكريبت غير المتزامنة (Callbacks, Promises, Async/Await) (18:30)"
+          },
+          {
+            "en": "Lesson 3: Building a Simple Server (14:10)",
+            "ar": "الدرس 3: بناء خادم (Server) بسيط (14:10)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "02",
+        "moduleTitle": {
+          "en": "Building APIs with Express.js",
+          "ar": "بناء APIs باستخدام Express.js"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Introduction to Express (15:00)",
+            "ar": "الدرس 1: مقدمة في Express (15:00)"
+          },
+          {
+            "en": "Lesson 2: Routing and Middleware (19:20)",
+            "ar": "الدرس 2: التوجيه (Routing) والبرمجيات الوسيطة (Middleware) (19:20)"
+          },
+          {
+            "en": "Lesson 3: Handling POST, PUT, DELETE Requests (17:45)",
+            "ar": "الدرس 3: التعامل مع طلبات POST, PUT, DELETE (17:45)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "03",
+        "moduleTitle": {
+          "en": "Database Integration (MongoDB)",
+          "ar": "التكامل مع قواعد البيانات (MongoDB)"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Introduction to MongoDB and Mongoose (16:40)",
+            "ar": "الدرس 1: مقدمة في MongoDB و Mongoose (16:40)"
+          },
+          {
+            "en": "Lesson 2: CRUD Operations (Create, Read, Update, Delete) (21:15)",
+            "ar": "الدرس 2: عمليات CRUD (الإنشاء، القراءة، التحديث، الحذف) (21:15)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "04",
+        "moduleTitle": {
+          "en": "Authentication & Security",
+          "ar": "المصادقة والأمان"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: User Authentication with JSON Web Tokens (JWT) (24:00)",
+            "ar": "الدرس 1: مصادقة المستخدم باستخدام (JWT) (24:00)"
+          }
+        ]
+      }
+    ],
+    "id": "12"
+  },
+  {
+    "title": {
+      "en": "AWS Certified Cloud Practitioner",
+      "ar": "شهادة AWS Cloud Practitioner المعتمدة"
+    },
+    "price": 0,
+    "description": {
+      "en": "A complete guide to passing the AWS Certified Cloud Practitioner (CLF-C01) exam. Covers core services, security, pricing, and support.",
+      "ar": "دليل كامل لاجتياز امتحان AWS Certified Cloud Practitioner (CLF-C01). يغطي الخدمات الأساسية والأمان والتسعير والدعم."
+    },
+    "image": "https://res.cloudinary.com/dr2dnmx76/image/upload/v1761178240/Gemini_Generated_Image_di8ogidi8ogidi8o_uofcgs.png",
+    "categories": {
+      "en": "Cloud Computing",
+      "ar": "الحوسبة السحابية"
+    },
+    "categoryColor": "text-yellow-500 bg-yellow-500/10",
+    "date": 1728514488,
+    "isActive": false,
+    "instructor": {
+      "en": "Laura Chen",
+      "ar": "لورا تشين"
+    },
+    "reviews": 115,
+    "rating": 4.9,
+    "whatLearn": [
+      {
+        "en": "Understand the core concepts of cloud computing and the AWS ecosystem.",
+        "ar": "فهم المفاهيم الأساسية للحوسبة السحابية وبيئة AWS."
+      },
+      {
+        "en": "Identify key AWS services (Compute, Storage, Database, Networking).",
+        "ar": "التعرف على خدمات AWS الرئيسية (الحوسبة، التخزين، قواعد البيانات، الشبكات)."
+      },
+      {
+        "en": "Learn about AWS security, compliance, and the Shared Responsibility Model.",
+        "ar": "التعلم عن الأمان والامتثال في AWS ونموذج المسؤولية المشتركة."
+      },
+      {
+        "en": "Understand AWS pricing models and billing.",
+        "ar": "فهم نماذج التسعير والفوترة في AWS."
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "Cloud Concepts",
+          "ar": "مفاهيم السحابة"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: What is Cloud Computing? (10:10)",
+            "ar": "الدرس 1: ما هي الحوسبة السحابية؟ (10:10)"
+          },
+          {
+            "en": "Lesson 2: The 6 Advantages of Cloud (12:45)",
+            "ar": "الدرس 2: المزايا الست للسحابة (12:45)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "02",
+        "moduleTitle": {
+          "en": "Core AWS Services",
+          "ar": "خدمات AWS الأساسية"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Compute (EC2, Lambda) (18:00)",
+            "ar": "الدرس 1: الحوسبة (EC2, Lambda) (18:00)"
+          },
+          {
+            "en": "Lesson 2: Storage (S3, EBS, EFS) (16:30)",
+            "ar": "الدرس 2: التخزين (S3, EBS, EFS) (16:30)"
+          },
+          {
+            "en": "Lesson 3: Database (RDS, DynamoDB) (15:55)",
+            "ar": "الدرس 3: قواعد البيانات (RDS, DynamoDB) (15:55)"
+          },
+          {
+            "en": "Lesson 4: Networking (VPC, Route 53) (17:20)",
+            "ar": "الدرس 4: الشبكات (VPC, Route 53) (17:20)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "03",
+        "moduleTitle": {
+          "en": "Security & Compliance",
+          "ar": "الأمان والامتثال"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: The Shared Responsibility Model (11:40)",
+            "ar": "الدرس 1: نموذج المسؤولية المشتركة (11:40)"
+          },
+          {
+            "en": "Lesson 2: IAM (Users, Groups, Roles, Policies) (19:05)",
+            "ar": "الدرس 2: خدمة IAM (المستخدمون، المجموعات، الأدوار، السياسات) (19:05)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "04",
+        "moduleTitle": {
+          "en": "Pricing & Support",
+          "ar": "التسعير والدعم"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: AWS Pricing Models (On-Demand, Spot) (14:30)",
+            "ar": "الدرس 1: نماذج تسعير AWS (عند الطلب، فوري) (14:30)"
+          },
+          {
+            "en": "Lesson 2: AWS Support Plans (10:00)",
+            "ar": "الدرس 2: خطط دعم AWS (10:00)"
+          }
+        ]
+      }
+    ],
+    "id": "13"
+  },
+  {
+    "title": {
+      "en": "Cybersecurity Essentials",
+      "ar": "أساسيات الأمن السيبراني"
+    },
+    "price": 64.99,
+    "description": {
+      "en": "Protect yourself and organizations from cyber threats. Learn about malware, phishing, network security, and cryptography.",
+      "ar": "احمِ نفسك والمؤسسات من التهديدات السيبرانية. تعلم عن البرمجيات الخبيثة، التصيد الاحتيالي، أمن الشبكات، وعلم التشفير."
+    },
+    "image": "https://res.cloudinary.com/dr2dnmx76/image/upload/v1761178240/Gemini_Generated_Image_70f85z70f85z70f8_yxtmx0.png",
+    "categories": {
+      "en": "IT & Security",
+      "ar": "تكنولوجيا المعلومات والأمن"
+    },
+    "categoryColor": "text-rose-500 bg-rose-500/10",
+    "date": 1727019288,
+    "isActive": false,
+    "instructor": {
+      "en": "David Kim",
+      "ar": "ديفيد كيم"
+    },
+    "reviews": 89,
+    "rating": 4.6,
+    "whatLearn": [
+      {
+        "en": "Understand the main types of cyber threats (Malware, Phishing, DDoS).",
+        "ar": "فهم الأنواع الرئيسية للتهديدات السيبرانية (البرمجيات الخبيثة، التصيد، هجمات DDoS)."
+      },
+      {
+        "en": "Apply security best practices to protect personal and corporate data.",
+        "ar": "تطبيق أفضل ممارسات الأمان لحماية البيانات الشخصية وبيانات الشركات."
+      },
+      {
+        "en": "Learn the fundamentals of network security (Firewalls, VPNs).",
+        "ar": "تعلم أساسيات أمن الشبكات (الجدران النارية، VPNs)."
+      },
+      {
+        "en": "Grasp the basics of cryptography and data encryption.",
+        "ar": "فهم أساسيات علم التشفير وتشفير البيانات."
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "The Threat Landscape",
+          "ar": "مشهد التهديدات"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: What is Cybersecurity? (09:15)",
+            "ar": "الدرس 1: ما هو الأمن السيبراني؟ (09:15)"
+          },
+          {
+            "en": "Lesson 2: Types of Malware (Viruses, Ransomware) (14:30)",
+            "ar": "الدرس 2: أنواع البرمجيات الخبيثة (الفيروسات، برامج الفدية) (14:30)"
+          },
+          {
+            "en": "Lesson 3: Social Engineering & Phishing (16:00)",
+            "ar": "الدرس 3: الهندسة الاجتماعية والتصيد الاحتيالي (16:00)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "02",
+        "moduleTitle": {
+          "en": "Network Security",
+          "ar": "أمن الشبكات"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: How Firewalls Work (12:40)",
+            "ar": "الدرس 1: كيف تعمل الجدران النارية (12:40)"
+          },
+          {
+            "en": "Lesson 2: Introduction to VPNs (11:10)",
+            "ar": "الدرس 2: مقدمة في الشبكات الافتراضية الخاصة (VPNs) (11:10)"
+          },
+          {
+            "en": "Lesson 3: Secure Wi-Fi Practices (09:30)",
+            "ar": "الدرس 3: ممارسات تأمين شبكات Wi-Fi (09:30)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "03",
+        "moduleTitle": {
+          "en": "Cryptography Basics",
+          "ar": "أساسيات علم التشفير"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Symmetric vs. Asymmetric Encryption (15:20)",
+            "ar": "الدرس 1: التشفير المتماثل وغير المتماثل (15:20)"
+          },
+          {
+            "en": "Lesson 2: What are Digital Signatures? (13:00)",
+            "ar": "الدرس 2: ما هي التوقيعات الرقمية؟ (13:00)"
+          }
+        ]
+      }
+    ],
+    "id": "14"
+  },
+  {
+    "title": {
+      "en": "Financial Accounting Fundamentals",
+      "ar": "أساسيات المحاسبة المالية"
+    },
+    "price": 44.99,
+    "description": {
+      "en": "Learn the language of business. Understand financial statements (Balance Sheet, Income Statement) and the accounting cycle.",
+      "ar": "تعلم لغة الأعمال. افهم القوائم المالية (الميزانية العمومية، قائمة الدخل) والدورة المحاسبية."
+    },
+    "image": "https://res.cloudinary.com/dr2dnmx76/image/upload/v1761178239/Gemini_Generated_Image_70f85z70f85z70f8_1_zkobgu.png",
+    "categories": {
+      "en": "Business",
+      "ar": "إدارة الأعمال"
+    },
+    "categoryColor": "text-secondary bg-secondary/10",
+    "date": 1729419288,
+    "isActive": false,
+    "instructor": {
+      "en": "Michael Davis",
+      "ar": "مايكل ديفيس"
+    },
+    "reviews": 78,
+    "rating": 4.4,
+    "whatLearn": [
+      {
+        "en": "Read and interpret the three core financial statements.",
+        "ar": "قراءة وتفسير القوائم المالية الأساسية الثلاث."
+      },
+      {
+        "en": "Understand the accounting equation (Assets = Liabilities + Equity).",
+        "ar": "فهم المعادلة المحاسبية (الأصول = الالتزامات + حقوق الملكية)."
+      },
+      {
+        "en": "Learn the complete accounting cycle from debits and credits to closing entries.",
+        "ar": "تعلم الدورة المحاسبية الكاملة من المدين والدائن إلى قيود الإقفال."
+      },
+      {
+        "en": "Analyze business performance using key financial ratios.",
+        "ar": "تحليل أداء الأعمال باستخدام النسب المالية الرئيسية."
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "Introduction to Accounting",
+          "ar": "مقدمة في المحاسبة"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: The Accounting Equation (13:30)",
+            "ar": "الدرس 1: المعادلة المحاسبية (13:30)"
+          },
+          {
+            "en": "Lesson 2: Understanding Debits and Credits (17:10)",
+            "ar": "الدرس 2: فهم المدين والدائن (17:10)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "02",
+        "moduleTitle": {
+          "en": "The Financial Statements",
+          "ar": "القوائم المالية"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: The Income Statement (Profit & Loss) (15:40)",
+            "ar": "الدرس 1: قائمة الدخل (الأرباح والخسائر) (15:40)"
+          },
+          {
+            "en": "Lesson 2: The Balance Sheet (14:50)",
+            "ar": "الدرس 2: الميزانية العمومية (14:50)"
+          },
+          {
+            "en": "Lesson 3: The Statement of Cash Flows (16:20)",
+            "ar": "الدرس 3: قائمة التدفقات النقدية (16:20)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "03",
+        "moduleTitle": {
+          "en": "The Accounting Cycle",
+          "ar": "الدورة المحاسبية"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Recording Transactions (Journal Entries) (18:00)",
+            "ar": "الدرس 1: تسجيل المعاملات (قيود اليومية) (18:00)"
+          },
+          {
+            "en": "Lesson 2: Adjusting and Closing Entries (19:30)",
+            "ar": "الدرس 2: قيود التسوية والإقفال (19:30)"
+          }
+        ]
+      }
+    ],
+    "id": "15"
+  },
+  {
+    "title": {
+      "en": "Public Speaking Masterclass",
+      "ar": "ماستر كلاس الخطابة والتحدث أمام الجمهور"
+    },
+    "price": 39.99,
+    "description": {
+      "en": "Conquer your fear of public speaking. Learn to structure compelling speeches, use body language, and engage any audience.",
+      "ar": "تغلب على خوفك من التحدث أمام الجمهور. تعلم كيفية بناء خطابات مقنعة، واستخدام لغة الجسد، وإشراك أي جمهور."
+    },
+    "image": "https://res.cloudinary.com/dr2dnmx76/image/upload/v1761178239/Gemini_Generated_Image_70f85z70f85z70f8_2_oleksf.png",
+    "categories": {
+      "en": "Personal Development",
+      "ar": "تطوير الذات"
+    },
+    "categoryColor": "text-teal-500 bg-teal-500/10",
+    "date": 1729819288,
+    "isActive": false,
+    "instructor": {
+      "en": "Sophia Patel",
+      "ar": "صوفيا باتيل"
+    },
+    "reviews": 82,
+    "rating": 4.5,
+    "whatLearn": [
+      {
+        "en": "Overcome stage fright and speak with confidence.",
+        "ar": "التغلب على رهبة المسرح والتحدث بثقة."
+      },
+      {
+        "en": "Structure a speech (Introduction, Body, Conclusion) effectively.",
+        "ar": "هيكلة الخطاب (مقدمة، متن، خاتمة) بفاعلية."
+      },
+      {
+        "en": "Use storytelling and vocal variety to keep your audience engaged.",
+        "ar": "استخدام سرد القصص والتنويع الصوتي لإبقاء جمهورك منخرطًا."
+      },
+      {
+        "en": "Master body language and non-verbal communication.",
+        "ar": "إتقان لغة الجسد والتواصل غير اللفظي."
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "Building Confidence",
+          "ar": "بناء الثقة"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Understanding and Overcoming Fear (14:40)",
+            "ar": "الدرس 1: فهم الخوف والتغلب عليه (14:40)"
+          },
+          {
+            "en": "Lesson 2: Techniques for Managing Anxiety (12:30)",
+            "ar": "الدرس 2: تقنيات لإدارة القلق (12:30)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "02",
+        "moduleTitle": {
+          "en": "Speech Structure & Content",
+          "ar": "هيكل الخطاب ومحتواه"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: The 3-Part Speech Structure (16:10)",
+            "ar": "الدرس 1: هيكل الخطاب ثلاثي الأجزاء (16:10)"
+          },
+          {
+            "en": "Lesson 2: How to Craft a Powerful Opening (13:50)",
+            "ar": "الدرس 2: كيفية صياغة مقدمة قوية (13:50)"
+          },
+          {
+            "en": "Lesson 3: The Power of Storytelling (15:00)",
+            "ar": "الدرس 3: قوة سرد القصص (15:00)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "03",
+        "moduleTitle": {
+          "en": "Delivery Techniques",
+          "ar": "تقنيات الإلقاء"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Using Your Voice (Tone, Pace, Volume) (17:25)",
+            "ar": "الدرس 1: استخدام صوتك (النبرة، السرعة، مستوى الصوت) (17:25)"
+          },
+          {
+            "en": "Lesson 2: Body Language and Stance (14:00)",
+            "ar": "الدرس 2: لغة الجسد والوقفة (14:00)"
+          }
+        ]
+      }
+    ],
+    "id": "16"
+  },
+  {
+    "title": {
+      "en": "Digital Photography Masterclass",
+      "ar": "ماستر كلاس التصوير الرقمي"
+    },
+    "price": 49.99,
+    "description": {
+      "en": "Learn to use your DSLR or mirrorless camera. Master exposure (Aperture, Shutter Speed, ISO), composition, and lighting.",
+      "ar": "تعلم استخدام كاميرا DSLR أو Mirrorless. أتقن التعريض (فتحة العدسة، سرعة الغالق، ISO)، والتكوين، والإضاءة."
+    },
+    "image": "https://res.cloudinary.com/dr2dnmx76/image/upload/v1761178244/Gemini_Generated_Image_lkchl9lkchl9lkch_w9c7bz.png",
+    "categories": {
+      "en": "Photography",
+      "ar": "التصوير"
+    },
+    "categoryColor": "text-indigo-500 bg-indigo-500/10",
+    "date": 1729919288,
+    "isActive": false,
+    "instructor": {
+      "en": "James Wilson",
+      "ar": "جيمس ويلسون"
+    },
+    "reviews": 99,
+    "rating": 4.8,
+    "whatLearn": [
+      {
+        "en": "Confidently shoot in Manual Mode.",
+        "ar": "التصوير بثقة في الوضع اليدوي (Manual Mode)."
+      },
+      {
+        "en": "Understand the Exposure Triangle (Aperture, Shutter Speed, ISO).",
+        "ar": "فهم مثلث التعريض (فتحة العدسة، سرعة الغالق، ISO)."
+      },
+      {
+        "en": "Apply composition rules (Rule of Thirds, Leading Lines) to create stunning photos.",
+        "ar": "تطبيق قواعد التكوين (قاعدة الأثلاث، الخطوط الموجهة) لإنشاء صور مذهلة."
+      },
+      {
+        "en": "Learn the basics of photo editing in Lightroom.",
+        "ar": "تعلم أساسيات تعديل الصور في Lightroom."
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "Camera Fundamentals",
+          "ar": "أساسيات الكاميرا"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Understanding Your Camera (DSLR vs. Mirrorless) (11:20)",
+            "ar": "الدرس 1: فهم الكاميرا الخاصة بك (DSLR مقابل Mirrorless) (11:20)"
+          },
+          {
+            "en": "Lesson 2: Lenses 101 (Focal Length, Aperture) (15:30)",
+            "ar": "الدرس 2: أساسيات العدسات (البعد البؤري، فتحة العدسة) (15:30)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "02",
+        "moduleTitle": {
+          "en": "The Exposure Triangle",
+          "ar": "مثلث التعريض"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Aperture and Depth of Field (18:10)",
+            "ar": "الدرس 1: فتحة العدسة وعمق المجال (18:10)"
+          },
+          {
+            "en": "Lesson 2: Shutter Speed and Motion Blur (16:45)",
+            "ar": "الدرس 2: سرعة الغالق وضبابية الحركة (16:45)"
+          },
+          {
+            "en": "Lesson 3: ISO and Noise (14:00)",
+            "ar": "الدرس 3: ISO والتشويش (Noise) (14:00)"
+          },
+          {
+            "en": "Lesson 4: Shooting in Manual Mode (20:30)",
+            "ar": "الدرس 4: التصوير بالوضع اليدوي (20:30)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "03",
+        "moduleTitle": {
+          "en": "Composition & Lighting",
+          "ar": "التكوين والإضاءة"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Composition Rules (Rule of Thirds, Framing) (17:00)",
+            "ar": "الدرس 1: قواعد التكوين (قاعدة الأثلاث، التأطير) (17:00)"
+          },
+          {
+            "en": "Lesson 2: Understanding Natural Light (15:20)",
+            "ar": "الدرس 2: فهم الإضاءة الطبيعية (15:20)"
+          }
+        ]
+      }
+    ],
+    "id": "17"
+  },
+  {
+    "title": {
+      "en": "Creative Writing Workshop",
+      "ar": "ورشة عمل الكتابة الإبداعية"
+    },
+    "price": 34.99,
+    "description": {
+      "en": "Unlock your inner author. Learn to build compelling characters, craft engaging plots, and find your unique writing voice.",
+      "ar": "أطلق العنان للمؤلف بداخلك. تعلم بناء شخصيات مقنعة، وصياغة حبكات جذابة، والعثور على صوتك الكتابي الفريد."
+    },
+    "image": "https://res.cloudinary.com/dr2dnmx76/image/upload/v1761178238/Gemini_Generated_Image_5i4rgm5i4rgm5i4r_hikn3q.png",
+    "categories": {
+      "en": "Writing",
+      "ar": "الكتابة"
+    },
+    "categoryColor": "text-pink-500 bg-pink-500/10",
+    "date": 1729999288,
+    "isActive": false,
+    "instructor": {
+      "en": "Sarah Jenkins",
+      "ar": "سارة جينكينز"
+    },
+    "reviews": 76,
+    "rating": 4.3,
+    "whatLearn": [
+      {
+        "en": "Develop believable and memorable characters.",
+        "ar": "تطوير شخصيات واقعية لا تُنسى."
+      },
+      {
+        "en": "Structure a plot (conflict, rising action, climax, resolution).",
+        "ar": "هيكلة الحبكة (الصراع، الحدث الصاعد، الذروة، الحل)."
+      },
+      {
+        "en": "Master the art of 'Show, Don't Tell'.",
+        "ar": "إتقان فن 'أرني، لا تخبرني' (Show, Don't Tell)."
+      },
+      {
+        "en": "Overcome writer's block with practical exercises.",
+        "ar": "التغلب على قفلة الكاتب (Writer's Block) بتمارين عملية."
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "The Building Blocks of Story",
+          "ar": "لبنات بناء القصة"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Finding Your Unique Voice (12:50)",
+            "ar": "الدرس 1: العثور على صوتك الفريد (12:50)"
+          },
+          {
+            "en": "Lesson 2: Creating Compelling Characters (18:20)",
+            "ar": "الدرس 2: خلق شخصيات مقنعة (18:20)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "02",
+        "moduleTitle": {
+          "en": "Plot & Structure",
+          "ar": "الحبكة والهيكل"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: The Three-Act Structure (16:30)",
+            "ar": "الدرس 1: هيكل الفصول الثلاثة (16:30)"
+          },
+          {
+            "en": "Lesson 2: Crafting Conflict and Tension (14:45)",
+            "ar": "الدرس 2: صياغة الصراع والتوتر (14:45)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "03",
+        "moduleTitle": {
+          "en": "The Craft of Writing",
+          "ar": "حرفة الكتابة"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: 'Show, Don't Tell' Explained (15:00)",
+            "ar": "الدرس 1: شرح 'أرني، لا تخبرني' (15:00)"
+          },
+          {
+            "en": "Lesson 2: Writing Effective Dialogue (17:10)",
+            "ar": "الدرس 2: كتابة حوار فعال (17:10)"
+          }
+        ]
+      }
+    ],
+    "id": "18"
+  },
+  {
+    "title": {
+      "en": "Microsoft Excel - Zero to Hero",
+      "ar": "مايكروسوفت إكسل - من الصفر للاحتراف"
+    },
+    "price": 29.99,
+    "description": {
+      "en": "Master Microsoft Excel from beginner to advanced. Learn functions, Pivot Tables, VLOOKUP, and data visualization.",
+      "ar": "أتقن مايكروسوفت إكسل من المبتدئ إلى المتقدم. تعلم الدوال، الجداول المحورية (Pivot Tables)، VLOOKUP، وتصوير البيانات."
+    },
+    "image": "https://res.cloudinary.com/dr2dnmx76/image/upload/v1761178245/Gemini_Generated_Image_v4l7jnv4l7jnv4l7_hnynk2.png",
+    "categories": {
+      "en": "Business",
+      "ar": "إدارة الأعمال"
+    },
+    "categoryColor": "text-secondary bg-secondary/10",
+    "date": 1730019288,
+    "isActive": false,
+    "instructor": {
+      "en": "Kevin Moore",
+      "ar": "كيفن مور"
+    },
+    "reviews": 110,
+    "rating": 4.7,
+    "whatLearn": [
+      {
+        "en": "Navigate the Excel interface and use basic functions (SUM, AVERAGE).",
+        "ar": "التنقل في واجهة إكسل واستخدام الدوال الأساسية (SUM, AVERAGE)."
+      },
+      {
+        "en": "Use essential functions like VLOOKUP, HLOOKUP, and IF statements.",
+        "ar": "استخدام الدوال الأساسية مثل VLOOKUP, HLOOKUP, وجمل IF."
+      },
+      {
+        "en": "Analyze large datasets with Pivot Tables and Pivot Charts.",
+        "ar": "تحليل مجموعات البيانات الكبيرة باستخدام الجداول والرسوم البيانية المحورية."
+      },
+      {
+        "en": "Create professional charts and dashboards for data visualization.",
+        "ar": "إنشاء رسوم بيانية ولوحات تحكم احترافية لتصوير البيانات."
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "Excel Basics",
+          "ar": "أساسيات إكسل"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Formatting and Basic Functions (13:10)",
+            "ar": "الدرس 1: التنسيق والدوال الأساسية (13:10)"
+          },
+          {
+            "en": "Lesson 2: Working with Data (Sorting, Filtering) (11:45)",
+            "ar": "الدرس 2: التعامل مع البيانات (الفرز، التصفية) (11:45)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "02",
+        "moduleTitle": {
+          "en": "Formulas & Functions",
+          "ar": "الصيغ والدوال"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Logical Functions (IF, AND, OR) (15:30)",
+            "ar": "الدرس 1: الدوال المنطقية (IF, AND, OR) (15:30)"
+          },
+          {
+            "en": "Lesson 2: VLOOKUP and HLOOKUP (18:00)",
+            "ar": "الدرس 2: دالة VLOOKUP و HLOOKUP (18:00)"
+          },
+          {
+            "en": "Lesson 3: Text and Date Functions (14:20)",
+            "ar": "الدرس 3: دوال النصوص والتواريخ (14:20)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "03",
+        "moduleTitle": {
+          "en": "Data Analysis",
+          "ar": "تحليل البيانات"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Introduction to Pivot Tables (20:10)",
+            "ar": "الدرس 1: مقدمة في الجداول المحورية (Pivot Tables) (20:10)"
+          },
+          {
+            "en": "Lesson 2: Creating Pivot Charts (16:50)",
+            "ar": "الدرس 2: إنشاء الرسوم البيانية المحورية (16:50)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "04",
+        "moduleTitle": {
+          "en": "Data Visualization",
+          "ar": "تصوير البيانات"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Building Effective Charts (17:35)",
+            "ar": "الدرس 1: بناء رسوم بيانية فعالة (17:35)"
+          }
+        ]
+      }
+    ],
+    "id": "19"
+  },
+  {
+    "title": {
+      "en": "Mobile App Development with Flutter",
+      "ar": "تطوير تطبيقات الموبايل باستخدام Flutter"
+    },
+    "price": 59.99,
+    "description": {
+      "en": "Build beautiful, natively compiled applications for mobile (iOS & Android) from a single codebase using Google's Flutter.",
+      "ar": "بناء تطبيقات جميلة تعمل أصلاً (natively compiled) للموبايل (iOS و Android) من قاعدة كود واحدة باستخدام Flutter من جوجل."
+    },
+    "image": "https://res.cloudinary.com/dr2dnmx76/image/upload/v1761178245/Gemini_Generated_Image_tz9j7atz9j7atz9j_c5xywo.png",
+    "categories": {
+      "en": "Programming",
+      "ar": "البرمجة"
+    },
+    "categoryColor": "text-primary bg-primary/10",
+    "date": 1730119288,
+    "isActive": false,
+    "instructor": {
+      "en": "Angela Yu",
+      "ar": "أنجيلا يو"
+    },
+    "reviews": 120,
+    "rating": 4.9,
+    "whatLearn": [
+      {
+        "en": "Build cross-platform applications for iOS and Android.",
+        "ar": "بناء تطبيقات متعددة المنصات (Cross-platform) لـ iOS و Android."
+      },
+      {
+        "en": "Understand the Dart programming language.",
+        "ar": "فهم لغة البرمجة Dart."
+      },
+      {
+        "en": "Create beautiful UIs using Flutter's widget system.",
+        "ar": "إنشاء واجهات مستخدم جميلة باستخدام نظام الـ Widgets في Flutter."
+      },
+      {
+        "en": "Manage state and use services like Firebase in your app.",
+        "ar": "إدارة الحالة (State) واستخدام خدمات مثل Firebase في تطبيقك."
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "Introduction to Dart & Flutter",
+          "ar": "مقدمة في Dart و Flutter"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Dart Programming Fundamentals (20:40)",
+            "ar": "الدرس 1: أساسيات برمجة Dart (20:40)"
+          },
+          {
+            "en": "Lesson 2: Setting up Flutter (10:15)",
+            "ar": "الدرس 2: إعداد بيئة عمل Flutter (10:15)"
+          },
+          {
+            "en": "Lesson 3: Understanding Widgets (18:30)",
+            "ar": "الدرس 3: فهم الـ Widgets (18:30)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "02",
+        "moduleTitle": {
+          "en": "Building UIs",
+          "ar": "بناء واجهات المستخدم"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Layouts (Rows, Columns, Containers) (22:00)",
+            "ar": "الدرس 1: التخطيطات (Rows, Columns, Containers) (22:00)"
+          },
+          {
+            "en": "Lesson 2: Navigation and Routing (17:50)",
+            "ar": "الدرس 2: التنقل والتوجيه (Navigation and Routing) (17:50)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "03",
+        "moduleTitle": {
+          "en": "State Management",
+          "ar": "إدارة الحالة"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Stateful vs. Stateless Widgets (15:00)",
+            "ar": "الدرس 1: الفرق بين Stateful و Stateless Widgets (15:00)"
+          },
+          {
+            "en": "Lesson 2: Using the Provider Package (19:25)",
+            "ar": "الدرس 2: استخدام حزمة Provider (19:25)"
+          }
+        ]
+      },
+      {
+        "moduleNumber": "04",
+        "moduleTitle": {
+          "en": "Working with APIs & Firebase",
+          "ar": "التعامل مع APIs و Firebase"
+        },
+        "lessons": [
+          {
+            "en": "Lesson 1: Fetching Data from the Internet (APIs) (21:05)",
+            "ar": "الدرس 1: جلب البيانات من الإنترنت (APIs) (21:05)"
+          },
+          {
+            "en": "Lesson 2: Integrating Firebase (Authentication) (24:10)",
+            "ar": "الدرس 2: دمج Firebase (المصادقة) (24:10)"
+          }
+        ]
+      }
+    ],
+    "id": "20"
+  },
+  {
+    "title": {
+      "en": "java script",
+      "ar": "جافا سكريبت"
+    },
+    "price": 150,
+    "description": {
+      "en": "java script",
+      "ar": "جافا سكريبت"
+    },
+    "image": "https://res.cloudinary.com/dr2dnmx76/image/upload/v1761519614/DeWatermark.ai_1761519547381_o7klrn.jpg",
+    "categories": {
+      "en": "development",
+      "ar": "الاقتصادية"
+    },
+    "date": 1762207425,
+    "isActive": false,
+    "instructor": {
+      "en": "bolo bolo",
+      "ar": "بولو بولو"
+    },
+    "review": 5,
+    "whatLearn": [
+      {
+        "en": "java script",
+        "ar": "جافا سكريبت"
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "java script",
+          "ar": "جافا سكريبت"
+        },
+        "lessons": [
+          {
+            "en": "java script",
+            "ar": "جافا سكريبت"
+          }
+        ]
+      }
+    ],
+    "id": "22",
+    "userId": "user_34Z4xo2heqFjyRjAcSeAR4RcZtF"
+  },
+  {
+    "title": {
+      "en": "front end",
+      "ar": "الواجهة الأمامية"
+    },
+    "price": 20.2,
+    "description": {
+      "en": "course front-end\nhtml \ncss\njavascript\nreact.js\nnext.js\ntailwind",
+      "ar": "الواجهة الأمامية للدورة التدريبية\nhtml \ncss\nجافا سكريبت\nreact.js\nnext.js\nرياح خلفية"
+    },
+    "image": "https://res.cloudinary.com/dr2dnmx76/image/upload/v1761519614/DeWatermark.ai_1761519547381_o7klrn.jpg",
+    "categories": {
+      "en": "development",
+      "ar": "الاقتصادية"
+    },
+    "date": 1762287014,
+    "isActive": false,
+    "instructor": {
+      "en": "bolo bolo",
+      "ar": "بولو بولو"
+    },
+    "review": 40,
+    "whatLearn": [
+      {
+        "en": "learn front-end",
+        "ar": "تعلم الواجهة الأمامية"
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "course front-end",
+          "ar": "الواجهة الأمامية للدورة التدريبية"
+        },
+        "lessons": [
+          {
+            "en": "html  css javascript react.js next.js tailwind",
+            "ar": "html  css javascript react.js next.js tailwind"
+          }
+        ]
+      }
+    ],
+    "id": "23",
+    "userId": "user_34Z4xo2heqFjyRjAcSeAR4RcZtF"
+  },
+  {
+    "title": {
+      "en": "front-end",
+      "ar": "الوجهة الخلفية"
+    },
+    "price": 150,
+    "description": {
+      "en": "html\njavascript",
+      "ar": "html\nجافا سكريبت"
+    },
+    "image": "https://res.cloudinary.com/dr2dnmx76/image/upload/v1761519614/DeWatermark.ai_1761519547381_o7klrn.jpg",
+    "categories": {
+      "en": "development",
+      "ar": "الاقتصادية"
+    },
+    "date": 1762635606,
+    "isActive": false,
+    "instructor": {
+      "en": "bolo bolo",
+      "ar": "بولو بولو"
+    },
+    "review": 1,
+    "whatLearn": [
+      {
+        "en": "javascript javascript",
+        "ar": "جافا سكريبت جافا سكريبت"
+      }
+    ],
+    "courseSyllabus": [
+      {
+        "moduleNumber": "01",
+        "moduleTitle": {
+          "en": "javascript javascript",
+          "ar": "جافا سكريبت جافا سكريبت"
+        },
+        "lessons": [
+          {
+            "en": "javascript javascript",
+            "ar": "جافا سكريبت جافا سكريبت"
+          }
+        ]
+      }
+    ],
+    "id": "24",
+    "userId": "user_34Z4xo2heqFjyRjAcSeAR4RcZtF"
+  }
+]
