@@ -15,19 +15,19 @@ function addCount(){
   
 }
   function removeItem(id: string) {
-    const newItems: Product[] = products.filter((item) => item.id !== id);
+    products = products.filter((item) => item.id !== id);
   }
 
   return (
     <div className="grid grid-cols-3 gap-4 p-6">
-      {products.map((item) => {
+      {products?.map((item) => {
         return (
-          <div key={item.id} className="bg-white shadow-2xl rounded-2xl text-black p-4">
-            <li key={item.id}>
-              <img src={item.image} alt={item.title} />
-              <h3>{item.title}</h3>
-              <p>{item.description}</p>
-              <p>{item.price} USD</p>
+          <div key={item?.id} className="bg-white shadow-2xl rounded-2xl text-black p-4">
+            <li key={item?.id}>
+              <img src={item?.image} alt={item?.title["en"]} />
+              <h3>{item?.title["en"]}</h3>
+              <p>{item?.description["en"]}</p> 
+              <p>{item?.price} USD</p>
               <p>{count}</p>
               <AddCount addCount={addCount}/>
               <button className="cursor-pointer bg-blue-500 rounded-md p-3" onClick={() => removeItem(item.id)}>Remove</button>

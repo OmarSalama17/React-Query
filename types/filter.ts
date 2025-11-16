@@ -1,0 +1,1 @@
+export type filterCategory = true | false ;
